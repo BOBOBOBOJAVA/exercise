@@ -2,5 +2,7 @@
 ### Java template
 # IntelliJ project files
 *.iml
+/*/zookeeper/target
+*.class
 
 
